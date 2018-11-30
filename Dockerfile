@@ -1,4 +1,4 @@
-FROM linuxserver/radarr
+FROM lsioarmhf/radarr
 
 RUN \
   apt-get update && \
